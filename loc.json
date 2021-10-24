@@ -8,7 +8,7 @@
     "entity_id" : "PI_SHP_AUTH",
     "meta_type" : "",
     "desc" : "",
-    "translation" : "Login-имя пользователя,т.е. имя,которое используется для входа в систему"
+    "translation" : "Login-user name"
   }, {
     "id" : "ECCD427347771A44936141428FAE970342FA702C",
     "text" : " \"_ключ_ошибки_\" - ключи игнорируемых ошибок через \";\"",
@@ -18,7 +18,7 @@
     "entity_id" : "CIS_UNI",
     "meta_type" : "",
     "desc" : "",
-    "translation" : " \"_ключ_ошибки_\" - ключи игнорируемых ошибок через \";\""
+    "translation" : " \"_error_key_\" - keys for ignored errors by \";\""
   }, {
     "id" : "ECCD427347771A44936141428FAE970342FA702C",
     "text" : "z",
@@ -48,7 +48,7 @@
     "entity_id" : "PI_SHP_AUTH",
     "meta_type" : "",
     "desc" : "",
-    "translation" : "qwe"
+    "translation" : "asd"
   }, {
     "id" : "31F983370577B8EF4A1C09F329F503CC7ABA600C",
     "text" : "rty",
@@ -58,6 +58,6 @@
     "entity_id" : "PI_SHP_AUTH",
     "meta_type" : "",
     "desc" : "",
-    "translation" : "rty"
+    "translation" : "fgh"
   }]
 }
