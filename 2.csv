@@ -1,0 +1,147 @@
+146
+json/en/shop/sp4/pi_tsm_task_cards.json	a	Укажите количество$1$дополнительных заданий$2$для дублирования		Укажите количество$1$дополнительных заданий$2$для дублирования
+json/en/shop/sp4/pk_shp_priv_basket_act.json	a	Отмена операций в связи с отменой строки выписки		Отмена операций в связи с отменой строки выписки
+json/en/shop/xml/shp_abstract_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_abstract_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_abstract_excepted_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_abstract_income_pret_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_abstract_inventory_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_abstract_non_cond_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_abstract_outlay_pret_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_abstract_ret_req_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_abstract_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_account_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_accounting_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_basket_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_cc_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_confirmation_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_correct_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_correction_income_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_correction_outlay_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_cut_act_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_decision_dif_im_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_decision_dif_ret_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_decision_difference_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_excepted_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_excepted_im_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_exchange_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_external_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_fact_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_fact_inventory_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_fact_recalc_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_from_sale_area_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_income_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_income_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_income_pretens_im_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_income_pretension_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_internal_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_minus_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_move_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_non_cond_disassemble_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_non_cond_move_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_non_cond_to_ware_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_noncond_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_outlay_act_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_outlay_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_outlay_conf_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_outlay_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_outlay_pretension_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_pretension_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_repair_act_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_ret_req_client_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_ret_requisition_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_ret_requisition_mmo_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_return_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_select_inv_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_select_inventory_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_statement_outlay_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_technical_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_tmp_out_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_to_sale_area_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_tro_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_ttn_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_ttr_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/shp_ware_to_non_cond_bill.json	a	Межстрановое решение		Межстрановое решение
+json/en/shop/xml/t_shp_bill.json	a	Межстрановое решение.		Межстрановое решение.
+json/en/shop/xml/tsm_abstract_select_inv_task.json	a	Безусловная отмена задания		Unconditional cancellation of task
+json/en/shop/xml/tsm_abstract_select_inv_task.json	a	Безусловная отмена задания.		Unconditional cancellation of task.
+json/en/shop/xml/tsm_abstract_select_inv_task.json	a	Причина отмены		Cancellation reason
+json/en/shop/xml/tsm_abstract_select_inv_task.json	a	Причина отмены.		Причина отмены.
+json/pl/shop/sp4/pi_shp_trading_day.json	m	В параметрах системы задан день списания НТП: $1$.$2$Необходимо заполнить отчет по остаткам НТП	W parametrach systemu określono dzień wyksięgowania PNT: $1$.$2$ Konieczne jest wypełnienie raportu dot. zapasów PNT	Dzień wyksięgowania PNT ustawiony w parametrach systemu to: $1$.$2$ Konieczne jest wypełnienie raportu dot. zapasów PNT
+json/pl/shop/sp4/pi_tsm_task_cards.json	a	Укажите количество$1$дополнительных заданий$2$для дублирования		Укажите количество$1$дополнительных заданий$2$для дублирования
+json/pl/shop/sp4/pk_shp_bill_support.json	m	Ошибка данных. Найдено более одной накладной ИИМ по складу $1:obj_954$!	Błąd danych. Odnaleziono więcej niż jedno zlecenie IIM dla magazynu $1:obj_954$!	Błąd danych. Znaleziono więcej niż jedno zlecenie IIM dla magazynu $1:obj_954$!
+json/pl/shop/sp4/pk_shp_claim.json	m	SC_1 найден id_iim_bill=$1$ id_claim_str=$2$	SC_1 найден id_iim_bill=$1$ id_claim_str=$2$	SC_1 znaleziono id_iim_bill=$1$ id_claim_str=$2$
+json/pl/shop/sp4/pk_shp_claim.json	m	SC_2 найден id_iim_bill=$1$ id_claim_str=$2$	SC_2 найден id_iim_bill=$1$ id_claim_str=$2$	SC_2 znaleziono id_iim_bill=$1$ id_claim_str=$2$
+json/pl/shop/sp4/pk_shp_priv_basket_act.json	a	Отмена операций в связи с отменой строки выписки		Отмена операций в связи с отменой строки выписки
+json/pl/shop/sp4/pk_shp_priv_bill_ext.json	m	В накладной $1:shp_income_bill.num$ были обнаружены товары НТП - был запущен механизм автоматического движения НТП по складам. В результате были созданы накладные:$2$	W zleceniu $1:shp_income_bill.num$ znaleziono towary PNT - uruchomiono mechanizm automatycznego przemieszczania PNT przez magazyny. W wyniku utworzone zostały zlecenia: $2$	W zleceniu $1:shp_income_bill.num$ znaleziono towary PNT - uruchomiono mechanizm automatycznego przemieszczania PNT między magazynami. W wyniku czego zostały utworzone zlecenia: $2$
+json/pl/shop/sp4/pk_shp_priv_bill_ext.json	m	В накладной $1:shp_income_bill.num$ были обнаружены товары с признаком \"Shopping bags\" - был запущен механизм автоматического движения товара по складам. В результате были созданы накладные:$2$	W zleceniu $1:shp_income_bill.num$ znaleziono towary z oznaczeniem \"Shopping bags\" - mechanizm automatycznego przemieszczania towaru wg magazynów został uruchomiony. W wyniku czego zostały utworzone zlecenia: $2$	W zleceniu $1:shp_income_bill.num$ znaleziono towary z oznaczeniem \"Shopping bags\" - uruchomiono mechanizm automatycznego przemieszczania towarów między magazynami. W wyniku czego zostały utworzone zlecenia: $2$
+json/pl/shop/sp4/pk_shp_priv_deliv_order.json	m	SPDO_1 найден id_iim_bill=$1$ id_reserve_order=$2$	SPDO_1 найден id_iim_bill=$1$ id_reserve_order=$2$	SPDO_1 znaleziono id_iim_bill=$1$ id_reserve_order=$2$
+json/pl/shop/sp4/pk_shp_reserve_support.json	m	SRS_1 найден id_iim_bill=$1$ id_reserve_str=$2$	SRS_1 найден id_iim_bill=$1$ id_reserve_str=$2$	SRS_1 znaleziono id_iim_bill=$1$ id_reserve_str=$2$
+json/pl/shop/sp4/pk_shp_reserve_support.json	m	SRS_2 найден id_iim_bill=$1$ id_reserve_str=$2$	SRS_2 найден id_iim_bill=$1$ id_reserve_str=$2$	SRS_2 znaleziono id_iim_bill=$1$ id_reserve_str=$2$
+json/pl/shop/sp4/pk_shp_reserve_support.json	m	Ошибка данных. Найдено более одной накладной ИИМ по складу $1:obj_954$!	Błąd danych. Odnaleziono więcej niż jedno zlecenie IIM dla magazynu $1:obj_954$!	Błąd danych. Znaleziono więcej niż jedno zlecenie IIM dla magazynu $1:obj_954$!
+json/pl/shop/xml/shp_abstract_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_abstract_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_abstract_excepted_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_abstract_income_pret_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_abstract_inventory_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_abstract_non_cond_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_abstract_outlay_pret_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_abstract_ret_req_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_abstract_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_account_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_accounting_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_basket_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_cc_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_confirmation_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_correct_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_correction_income_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_correction_outlay_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_cut_act_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_decision_dif_im_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_decision_dif_ret_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_decision_difference_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_excepted_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_excepted_im_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_exchange_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_external_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_fact_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_fact_inventory_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_fact_recalc_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_from_sale_area_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_income_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_income_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_income_pretens_im_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_income_pretension_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_internal_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_minus_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_move_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_non_cond_disassemble_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_non_cond_move_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_non_cond_to_ware_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_noncond_write_off_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_outlay_act_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_outlay_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_outlay_conf_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_outlay_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_outlay_pretension_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_pretension_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_repair_act_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_ret_req_client_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_ret_requisition_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_ret_requisition_mmo_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_return_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_select_inv_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_select_inventory_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_statement_outlay_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_technical_delta_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_tmp_out_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_to_sale_area_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_tro_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_ttn_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_ttr_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/shp_ware_to_non_cond_bill.json	a	Межстрановое решение		Межстрановое решение
+json/pl/shop/xml/t_shp_bill.json	a	Межстрановое решение.		Межстрановое решение.
+json/pl/shop/xml/tsm_abstract_select_inv_task.json	a	Безусловная отмена задания		Bezwarunkowe anulowanie zadania
+json/pl/shop/xml/tsm_abstract_select_inv_task.json	a	Безусловная отмена задания.		Bezwarunkowe anulowanie zadania.
+json/pl/shop/xml/tsm_abstract_select_inv_task.json	a	Причина отмены		Przyczyna anulowania
+json/pl/shop/xml/tsm_abstract_select_inv_task.json	a	Причина отмены.		Причина отмены.
