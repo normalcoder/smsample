@@ -1,6 +1,7 @@
-file, type, text, old, new
-loc.json, m, "Login-имя пользователя,т.е. имя,которое используется для входа в систему", "Login-имя пользователя,т.е. имя,которое используется для входа в систему", "Login-user name"
-loc.json, m, " \"_ключ_ошибки_\" - ключи игнорируемых ошибок через \";\"",, " \"_ключ_ошибки_\" - ключи игнорируемых ошибок через \";\"", " \"_error_key_\" - keys for ignored errors by \";\""
-loc.json, m, "qwe", "qwe", "asd"
-loc.json, m, "rty", "rty", "fgh"
-loc.json, a, "uio", "uio", "uio"
+file	type	text	old	new
+loc.json	m	"Login-имя пользователя,т.е. имя,которое используется для входа в систему"	"Login-имя пользователя,т.е. имя,которое используется для входа в систему"	"Login-user name"
+loc.json	m	" \"_ключ_ошибки_\" - ключи игнорируемых ошибок через \";\""	" \"_ключ_ошибки_\" - ключи игнорируемых ошибок через \";\""	" \"_error_key_\" - keys for ignored errors by \";\""
+loc.json	m	"qwe"	"qwe"	"asd"
+loc.json	m	"rty"	"rty"	"fgh"
+loc.json	a	"uio"	"uio"	"uio"
+loc.json	a	"zxc"	"zxc"	"zxc"
