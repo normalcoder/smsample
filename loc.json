@@ -1,0 +1,43 @@
+{
+  "phrases" : [{
+    "id" : "31F983370577B8EF4A1C09F329F503CC7ABA600C",
+    "text" : "Login-имя пользователя,т.е. имя,которое используется для входа в систему",
+    "scope" : "",
+    "folder" : "shop",
+    "entity" : "",
+    "entity_id" : "PI_SHP_AUTH",
+    "meta_type" : "",
+    "desc" : "",
+    "translation" : "Login-имя пользователя,т.е. имя,которое используется для входа в систему"
+  }, {
+    "id" : "ECCD427347771A44936141428FAE970342FA702C",
+    "text" : " \"_ключ_ошибки_\" - ключи игнорируемых ошибок через \";\"",
+    "scope" : "",
+    "folder" : "meta",
+    "entity" : "",
+    "entity_id" : "CIS_UNI",
+    "meta_type" : "",
+    "desc" : "",
+    "translation" : " \"_ключ_ошибки_\" - ключи игнорируемых ошибок через \";\""
+  }, {
+    "id" : "31F983370577B8EF4A1C09F329F503CC7ABA600C",
+    "text" : "qwe",
+    "scope" : "",
+    "folder" : "shop",
+    "entity" : "",
+    "entity_id" : "PI_SHP_AUTH",
+    "meta_type" : "",
+    "desc" : "",
+    "translation" : "qwe"
+  }, {
+    "id" : "31F983370577B8EF4A1C09F329F503CC7ABA600C",
+    "text" : "rty",
+    "scope" : "",
+    "folder" : "shop",
+    "entity" : "",
+    "entity_id" : "PI_SHP_AUTH",
+    "meta_type" : "",
+    "desc" : "",
+    "translation" : "rty"
+  }]
+}
