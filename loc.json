@@ -59,5 +59,15 @@
     "meta_type" : "",
     "desc" : "",
     "translation" : "fgh"
+  }, {
+    "id" : "31F983370577B8EF4A1C09F329F503CC7ABA600C",
+    "text" : "uio",
+    "scope" : "",
+    "folder" : "shop",
+    "entity" : "",
+    "entity_id" : "PI_SHP_AUTH",
+    "meta_type" : "",
+    "desc" : "",
+    "translation" : "uio"
   }]
 }
